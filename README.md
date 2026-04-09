@@ -29,12 +29,12 @@ Stock-Price-Prediction-Using-PySpark/
 │   ├── stock_price_prediction.py
 │   └── requirements.txt
 ├── dataset/
-│   └── your_dataset.csv
+│   └── stock_data.csv
 ├── output/
-│   ├── graph1.png
-│   ├── graph2.png
-│   ├── graph3.png
-│   └── result_screenshot.png
+│   ├── actual_stock_price.png
+│   ├── predicted_stock_price.png
+│   ├── actual_vs_predicted_overlay.png
+│   └── Measures.png
 ├── ppt/
 │   └── Stock_Price_Prediction_Presentation.pptx
 ├── report/

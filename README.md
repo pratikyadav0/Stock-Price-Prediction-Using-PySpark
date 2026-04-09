@@ -1,4 +1,4 @@
-# 📈 Project: Stock Price Prediction Using PySpark
+# 📈 Project: Stock Price Prediction 
 
 A scalable financial analytics pipeline built with **PySpark** and **Matplotlib**. This project predicts stock closing prices using real historical stock market data using a distributed machine learning workflow.
 
@@ -24,7 +24,7 @@ The model demonstrates good predictive alignment with historical stock price tre
 
 ## 📂 Repository Structure
 ```text
-Stock-Price-Prediction-Using-PySpark/
+Stock-Price-Prediction/
 ├── code/
 │   ├── stock_price_prediction.py
 │   └── requirements.txt
